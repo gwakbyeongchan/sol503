@@ -98,7 +98,7 @@
 </head>
 <body>
     <header>
-        <h1>홈쇼핑 회원가입</h1>
+        <h1>HR회원가입</h1>
     </header>
 
     <div class="register-container">
