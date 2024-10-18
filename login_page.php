@@ -98,7 +98,7 @@
     </style>
 </head>
 <body>
-    <h1>로그인1</h1>
+    <h1>로그인</h1>
 
     <!-- 성공 또는 실패 메시지 출력 -->
     <?php if (isset($_GET['success'])): ?>
